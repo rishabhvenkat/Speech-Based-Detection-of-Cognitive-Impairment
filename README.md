@@ -80,15 +80,7 @@ python src/predict.py path/to/audio_folder/
 | Spectral          | centroid (mean+std), rolloff mean     | 3     |
 | Quality           | HNR, fluency_score, hesitation_count  | 3     |
 
-## Results
 
-| Metric                  | Value    |
-|-------------------------|----------|
-| Test Accuracy           | 100.00%  |
-| ROC-AUC                 | 1.0000   |
-| CV Mean (5-fold)        | 100.00%  |
-| F1 Healthy (class 0)    | 1.0000   |
-| F1 Impaired (class 1)   | 1.0000   |
 
 ## Notes
 
